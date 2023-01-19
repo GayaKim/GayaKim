@@ -5,26 +5,19 @@
 <a href="mailto:gaya9912@gmail.com"><img src="https://img.shields.io/badge/gaya9912@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/gahyun-kim-425393262/"><img src="https://img.shields.io/badge/Gahyun Kim-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=A366E9&height=250&section=header&text=Hi,%20I'm%20Gahyun%20Kim👋🏼&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A366E9&height=250&section=header&text=Hi,%20I'm%20Gahyun%20Kim👋🏼&fontSize=70&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <div align=center><h1>📚Academy📚</h1></div>
 <h3>✔Donga Univ MIS - 2019.03 ~ 2023.02</h3> 
 
 <h3>✔BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12</h3> 
-<h4>Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..</h4>
-<details>
-  <summary style="color:red">Related project</summary>
-  <div markdown="1">
-    <h4><a href="https://github.com/BAE-JI-WANG/AWS3_3Tier">Spring petclinic 3Tier</a>(AWS 3TIer)</h4>
-  </div>
-  <div markdown="1">
-    <h4><a href="https://github.com/BAE-JI-WANG/btc_AWeSomeFinal">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)</h4>
-  </div>
-</details>
+<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..</h4>
 <br/><br/><br/>
 
 <div align=center><h1>🔗Project</h1></div>
-<h3>✔수정중 -> 예시 : [스마트 안전관리 플랫폼 "안전모두"] (https://github.com/BAE-JI-WANG/SatetyAll_HW-FW)</h3> 
+<h3>✔ [AWS 2-Tier with Console] (https://github.com/GayaKim/AWS_2Tier_Console.git)</h3>
+<h3>✔ [GCP petclinic 3-Tier with Console] (https://github.com/GayaKim/GCP_3Tier_Console.git)</h3> 
+<h3>✔ [GCP petclinic 2-Tier with Terraform] (https://github.com/GayaKim/GCP_2Tier_Terraform.git)</h3> 
 <br/> <br/> <br/>
 
 <div align=center><h1>📜Certificate📜</h1></div>

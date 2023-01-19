@@ -5,7 +5,7 @@
 <a href="mailto:gaya9912@gmail.com"><img src="https://img.shields.io/badge/gaya9912@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/gahyun-kim-425393262/"><img src="https://img.shields.io/badge/Gahyun Kim-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=A366E9&height=250&section=header&text=Hi✋I'm%20GahyunKim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A366E9&height=250&section=header&text=Hi,%20I'm%20Gahyun%20Kim👋🏼&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <div align=center><h1>📚Academy📚</h1></div>
 <h3>✔Donga Univ MIS - 2019.03 ~ 2023.02</h3> 

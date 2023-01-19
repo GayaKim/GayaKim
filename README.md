@@ -5,7 +5,7 @@
 <a href="mailto:gaya9912@gmail.com"><img src="https://img.shields.io/badge/gaya9912@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/gahyun-kim-425393262/"><img src="https://img.shields.io/badge/Gahyun Kim-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=A366E9&height=250&section=header&text=Gahyun%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A366E9&height=250&section=header&text=Hi✋, Im' Gahyun%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <div align=center><h1>📚Academy📚</h1></div>
 <h3>✔Donga Univ MIS - 2019.03 ~ 2023.02</h3> 
@@ -21,17 +21,17 @@
     <h4><a href="https://github.com/BAE-JI-WANG/btc_AWeSomeFinal">EKS environment website using open source to reduce costs</a>(AWS EKS Cluster)</h4>
   </div>
 </details>
-
+<br/><br/><br/>
 
 <div align=center><h1>🔗Project</h1></div>
 <h3>✔수정중 -> 예시 : [스마트 안전관리 플랫폼 "안전모두"] (https://github.com/BAE-JI-WANG/SatetyAll_HW-FW)</h3> 
-<br/>
+<br/> <br/> <br/>
 
 <div align=center><h1>📜Certificate📜</h1></div>
 <h3>예시입니다 ! Microsoft Certified: Azure Fundamentals</h3> 
 
 ![microsoft-certified-azure-fundamentals (2)](https://user-images.githubusercontent.com/59479926/200098689-3f259eab-bb40-4d0e-9461-2e01c57e6208.png)
-<br/>
+<br/> <br/> <br/>
 
 <div align=center><h1>⚙STACKS⚙</h1></div>
 
@@ -84,6 +84,7 @@
 
 ### Team Collabolation Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/drawio-000000?style=for-the-badge&logo=drawio&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<br/><br/><br/>
 
 <div align=center><h1>📊Stats📊</h1></div>
 

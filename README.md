@@ -7,7 +7,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A366E9&height=250&section=header&text=Gahyun%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-<div align=center><h1>📚Career & Academy📚</h1></div>
+<div align=center><h1>📚Academy📚</h1></div>
 <h3>✔Donga Univ MIS - 2019.03 ~ 2023.02</h3> 
 
 <h3>✔BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12</h3> 
@@ -26,11 +26,12 @@
 <div align=center><h1>🔗Project</h1></div>
 <h3>✔수정중 -> 예시 : [스마트 안전관리 플랫폼 "안전모두"] (https://github.com/BAE-JI-WANG/SatetyAll_HW-FW)</h3> 
 <br/>
+
 <div align=center><h1>📜Certificate📜</h1></div>
 <h3>예시입니다 ! Microsoft Certified: Azure Fundamentals</h3> 
 
 ![microsoft-certified-azure-fundamentals (2)](https://user-images.githubusercontent.com/59479926/200098689-3f259eab-bb40-4d0e-9461-2e01c57e6208.png)
-
+<br/>
 
 <div align=center><h1>⚙STACKS⚙</h1></div>
 

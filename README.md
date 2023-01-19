@@ -16,8 +16,11 @@
 
 <div align=center><h1>🔗Project</h1></div>
 <h3>✔ [AWS 2-Tier with Console] (https://github.com/GayaKim/AWS_2Tier_Console.git)</h3>
-<h3>✔ [GCP petclinic 3-Tier with Console] (https://github.com/GayaKim/GCP_3Tier_Console.git)</h3> 
-<h3>✔ [GCP petclinic 2-Tier with Terraform] (https://github.com/GayaKim/GCP_2Tier_Terraform.git)</h3> 
+<h3>✔ [NCP 3-Tier with Console] (https://github.com/GayaKim/NCP_3Tier_Console.git)</h3>
+<h3>✔ [GCP petclinic 3-Tier with Console] (https://github.com/GayaKim/GCP_3Tier_Console.git)</h3>
+<h3>✔ [GCP K8S] (https://github.com/GayaKim/GCP_K8S.git)</h3> 
+<h3>✔ [GCP 2-Tier wirh Terraform] (https://github.com/GayaKim/GCP_2Tier_Terraform.git)</h3>
+<h3>✔ [AWS 3-Tier wirh Terraform] ()</h3> 
 <br/> <br/> <br/>
 
 <div align=center><h1>📜Certificate📜</h1></div>

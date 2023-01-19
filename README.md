@@ -82,7 +82,7 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">  <!--k8s-->
 
 
-<div align=center><h1>📊Rated📊</h1></div>
+<div align=center><h1>📊Stats📊</h1></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GayaKim)](https://github.com/anuraghazra/github-readme-stats)
 

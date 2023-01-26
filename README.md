@@ -21,7 +21,7 @@
 <h3>✔ [GCP K8S] (https://github.com/GayaKim/GCP_K8S.git)</h3> 
 <h3>✔ [AWS 2-Tier with Terraform] (https://github.com/GayaKim/AWS_2Tier_Console.git)</h3>
 <h3>✔ [GCP 2-Tier with Terraform] (https://github.com/GayaKim/GCP_2Tier_Terraform.git)</h3>
-<h3>✔ [GCP 3-Tier Final Project |Using MSA, IaC, Docker, K8S, CI/CD] (https://github.com/GayaKim/GCP_MSA_IaC.git)</h3>
+<h3>✔ [GCP 3-Tier Final Project |Using MSA, IaC, Docker, K8S, CI/CD] <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (https://github.com/GayaKim/GCP_MSA_IaC.git)</h3>
 <br/> <br/> <br/>
 
 <div align=center><h1>📜Certificate📜</h1></div>

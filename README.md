@@ -8,8 +8,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A366E9&height=250&section=header&text=Hi,%20I'm%20Gahyun%20Kim👋🏼&fontSize=70&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <div align=center><h1>📚Academy📚</h1></div>
-<h3>✔Donga Univ MIS - 2019.03 ~ 2023.02</h3> 
-
+<h3>✔Department of MIS at Dong-a university - 2019.03 ~ 2023.02</h3> 
+<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MIS(Management Information Systems) 3.95/4.50 GPA
 <h3>✔BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12</h3> 
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, etc..</h4>
 <br/><br/><br/>

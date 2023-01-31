@@ -24,12 +24,6 @@
 <h3>✔ [GCP 3-Tier Final Project |Using MSA, IaC, Docker, K8S, CI/CD] <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (https://github.com/GayaKim/GCP_MSA_IaC.git)</h3>
 <br/> <br/> <br/>
 
-<div align=center><h1>📜Certificate📜</h1></div>
-<h3>예시입니다 ! Microsoft Certified: Azure Fundamentals</h3> 
-
-![microsoft-certified-azure-fundamentals (2)](https://user-images.githubusercontent.com/59479926/200098689-3f259eab-bb40-4d0e-9461-2e01c57e6208.png)
-<br/> <br/> <br/>
-
 <div align=center><h1>⚙STACKS⚙</h1></div>
 
 ### CSP
